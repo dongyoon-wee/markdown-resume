@@ -1,112 +1,100 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name">Teng-Jui Lin</span>
+<span class="name">Dongyoon Wee</span>
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:tlin10@uw.edu)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/tengjuilin)
+[![Mail](https://simpleicons.org/icons/minutemailer.svg) dongyoon.wee@gmail.com](mailto:dongyoon.wee@gmail.com)
+[![GitHub](https://simpleicons.org/icons/github.svg) github.com/dongyoon-wee](https://github.com/dongyoon-wee)
 
 </span>
 
+## Professional Experience
+### Leader Video AI Research | [Naver](https://www.naver.com/) <time> Jun 2020 – Present </time>
+- Led research on video representation, 3D scene reconstruction, multi-instance tracking
+- Led to build MLOps system for efficient ML model training & serving
+- Establish academic collaboration and set a publication strategy
+- Led development of video analysis system, face edit system, videoQA system 
+
+### Tech Lead Video AI Research | [Naver](https://www.naver.com/) <time> Dec 2017 – Jun 2020 </time>
+- Led research on action recognition, tracking ML model
+- Developed video theme classification ML system for video recommendation
+- Developed people tracking ML system for AutoHighlight system
+
+### Machine Learning Engineer | [Buzzvil](https://www.buzzvil.com/en) <time> Mar 2017 – Dec 2017 </time>
+- Developed news recommendation system based on ML model
+- Developed data pipeline system to train/infer ML model
+
+### Data Scientist | [LG CNS](https://www.lgcns.com/) <time> Jan 2015 – Mar 2017 </time>
+- Developed defect inspection ML model for manufacturing industry
+- Developed image search ML model for retail industry
+- Developed fraud detection ML model for financial industry
+- Developed churn prediction ML model for telecom industry
+
+### Associate Research Engineer | [LS Cable](https://www.lscns.co.kr/kr/main.asp) <time> Dec 2010 – Nov 2014 </time>
+- Developed cable performance prediction system 
+- Developed power grid monitoring system under IEC 61850
+- Developed remote monitoring system for wind/solar power generation
+
+### Research Intern | [EDF R&D](https://www.edf.fr/en) <time> Mar 2010 – Sep 2010 </time>
+- Implemented EOLSR(Energy Efficient Routing Protocol) in TinyOS for OCARI project
+- Simulated the implemented network and proved its efficiency
+
+### Research Intern | [LG Electronics](https://www.lge.co.kr/) <time> May 2009 – Sep 2009 </time>
+- Developed widget program for mobile phone
+
 ## Education
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### Master's degree, Seoul National University | <location> Electrical Engineering </location> <time> Mar 2008 – Feb 2011 </time>
+- Dual master's degree on Ecole des Mines de Saint-Etienne
+- Thesis on "Implementation EOLSR in TinyOS" based on wireless network protocol and simulation
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+### Master's degree, Ecole des Mines de Saint-Etienne | <location> Computer Science </location> <time> Sep 2008 – Aug 2010 </time>
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
+### Bachelor's Degree, Seoul Nation University | <location> Electrical Engineering </location> <time> Mar 2003 – Aug 2008 </time>
 
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
+## Fellowships & Awards
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
+### N-Innovation 3rd place | [Naver](https://www.naver.com/) <time> Jan 2024 </time>
+- Developed short-form generation system for ShoppingLive service
 
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
+### N-Innovation 1st place | [Naver](https://www.naver.com/) <time> Dec 2018 </time>
+- Developed people tracking system for AutoHighlight service
 
-## Relevant Experience
+### Hackathon 1st place | [LG CNS](https://www.lgcns.com/) <time> Oct 2016 </time>
+- Developed object detection module on Jetson TX2 for self-driving car
 
-### Undergraduate Research Assistant <time> Nov 2020 – Present </time>
+### Blaise Pascal Scholarship | Government of France <time> Jul 2008 </time>
+- Bourses d'excellence Blaise Pascal (acceptance rate: 4%)
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+## Publications
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+Kim, Jaehyeok, Wee, D., & Xu, D. (2023). You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos. arXiv Preprint arXiv:2303. 05835.
 
-### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+Lee, P., Kim, T., Shim, M., Wee, D., & Byun, H. (2023). Decomposed cross-modal distillation for rgb-based temporal action detection. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2373–2383.
 
-<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+Shim, M., Kim, T., Kim, J., & Wee, D. (2023). Masked Autoencoder for Unsupervised Video Summarization. arXiv Preprint arXiv:2306. 01395.
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+Kim, Jinhyung, Kim, T., Shim, M., Han, D., Wee, D., & Kim, J. (2023). Frequency selective augmentation for video representation learning. Proceedings of the AAAI Conference on Artificial Intelligence, 37, 1124–1132.
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+Yang, C., Kong, K., Min, S., Wee, D., Jang, H.-D., Cha, G., & Kang, S. (2023). Sefd: learning to distill complex pose and occlusion. Proceedings of the IEEE/CVF International Conference on Computer Vision, 14941–14952.
 
-<location> Kinglee High School </location>
+Hyun, J., Kang, M., Wee, D., & Yeung, D.-Y. (2023). Detection recovery in online multi-object tracking with sparse graph tracker. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 4850–4859.
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+Kim, T., Kim, J., Shim, M., Yun, S., Kang, M., Wee, D., & Lee, S. (2022). Exploring temporally dynamic data augmentation for video recognition. arXiv Preprint arXiv:2206. 15015.
 
-## Other Experience
+Cha, G., Jang, H.-D., & Wee, D. (2022). Self-Supervised Depth Estimation with Isometric-Self-Sample-Based Learning. arXiv Preprint arXiv:2205. 10006.
 
-### Webmaster <time> Apr 2022 – Present </time>
+Cha, G., Shin, C., Yoon, S., & Wee, D. (2022). Out of Sight, Out of Mind: A Source-View-Wise Feature Aggregation for Multi-View Image-Based Rendering. arXiv Preprint arXiv:2206. 04906.
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+Kim, Jinhyung, Kim, T., Shim, M., Han, D., Wee, D., & Kim, J. (2022). Spatiotemporal augmentation on selective frequencies for video representation learning. arXiv Preprint arXiv:2204. 03865, 3.
 
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
+Monet, N., & Wee, D. (2022). MEEV: Body Mesh Estimation On Egocentric Video. arXiv Preprint arXiv:2210. 14165.
 
-### Secretary <time> May 2021 – Present </time>
+Lee, I., Kim, D., Wee, D., & Lee, S. (2021). An efficient human instance-guided framework for video action recognition. Sensors, 21(24), 8309.
 
-<location> Women in Chemical Engineering, University of Washington </location>
+Shim, M., Ho, H.-I., Kim, J., & Wee, D. (2020). Read: Reciprocal attention discriminator for image-to-video re-identification. European Conference on Computer Vision, 335–350. Springer International Publishing Cham.
 
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
+Kim, Jinhyung, Cha, S., Wee, D., Bae, S., & Kim, J. (2020). Regularization on spatio-temporally smoothed feature for action recognition. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 12103–12112.
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
-
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
-
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
-
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
-
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
-
-<!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
+Ho, H.-I., Shim, M., & Wee, D. (2020). Learning from dances: pose-invariant re-identification for multi-person tracking. ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2113–2117. IEEE.
